@@ -3,7 +3,7 @@ Usage
 
 .. _installation:
 
-Installation
+Installing Convert Full Stack
 ------------
 
 To use Lumache, first install it using pip:
@@ -36,3 +36,6 @@ For example:
 Setting up Feature Flag
 ----------------
 
+
+Setting up a Goal
+----------------
